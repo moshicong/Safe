@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 16
+    buildToolsVersion "19.1.0"
+
+    defaultConfig {
+        applicationId "com.itheima.mobilesafe66"
+        minSdkVersion 10
+        targetSdkVersion 16
+
+        testApplicationId "com.itheima.mobilesafe666"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles 'proguard-android.txt', 'proguard-project.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.+'
+    compile files('libs/StartAppInApp-2.4.15.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+}
