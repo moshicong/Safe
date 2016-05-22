@@ -3,11 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/googlePlay/googlePlay.iml" filepath="$PROJECT_DIR$/googlePlay/googlePlay.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mobileSafe66/mobileSafe66.iml" filepath="$PROJECT_DIR$/mobileSafe66/mobileSafe66.iml" />
-      <module fileurl="file://$PROJECT_DIR$/netvideosender/netvideosender.iml" filepath="$PROJECT_DIR$/netvideosender/netvideosender.iml" />
-      <module fileurl="file://$PROJECT_DIR$/notificationdemo/notificationdemo.iml" filepath="$PROJECT_DIR$/notificationdemo/notificationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safe/safe.iml" filepath="$PROJECT_DIR$/safe/safe.iml" />
       <module fileurl="file://$PROJECT_DIR$/xutillibrary/xutillibrary.iml" filepath="$PROJECT_DIR$/xutillibrary/xutillibrary.iml" />
     </modules>
   </component>

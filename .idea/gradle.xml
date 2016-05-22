@@ -9,22 +9,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/googlePlay" />
-            <option value="$PROJECT_DIR$/mobileSafe66" />
-            <option value="$PROJECT_DIR$/netvideosender" />
-            <option value="$PROJECT_DIR$/notificationdemo" />
+            <option value="$PROJECT_DIR$/safe" />
             <option value="$PROJECT_DIR$/xutillibrary" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/googlePlay" />
-            <option value="$PROJECT_DIR$/mobileSafe66" />
-            <option value="$PROJECT_DIR$/netvideosender" />
-            <option value="$PROJECT_DIR$/notificationdemo" />
+            <option value="$PROJECT_DIR$/safe" />
             <option value="$PROJECT_DIR$/xutillibrary" />
           </set>
         </option>

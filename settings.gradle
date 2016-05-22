@@ -1,4 +1,1 @@
-include ':notificationdemo', ':app', ':netvideosender'
-include ':xutillibrary'
-include ':googlePlay'
-include ':mobileSafe66'
+include ':xutillibrary', ':safe'
